@@ -7,8 +7,7 @@ _**Цель** - Сверстать одностраничный сайт._
 **ТРЕБОВАНИЯ:**
 
 **1. Открыть макет сайта**
-https://www.figma.com/file/PxV85sdIzWj0CZ2kqg0hsT/Analytics-%E2%80%94-
-Landing-Page-Design-(Community)?node-id=0%3A1
+https://www.figma.com/file/PxV85sdIzWj0CZ2kqg0hsT/Analytics-%E2%80%94-Landing-Page-Design-(Community)?node-id=0%3A1
 
 **2. В соответствии с макетом необходимо:**
 1. Добавить все блоки по сайту (Использовать семантическую структуру)
